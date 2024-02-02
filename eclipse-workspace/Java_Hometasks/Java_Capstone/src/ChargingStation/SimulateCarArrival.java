@@ -67,7 +67,21 @@ public class SimulateCarArrival {
             }
 
         } else {
-            
+            // Charging Process for Non-Electric Vehicles
+            System.out.print("Enter the energy resource (Diesel, Petrol, CNG): ");
+            String selectedEsource = EnergySource.selectEnergySource(station);
+            //systemLogger.log(Level.INFO, "Selected energy source: " + selectedEsource);
+
+            System.out.println("You have " + station.numberOfFreeStationsAvailable +
+                    " free charging slots available for charging with " + selectedEsource);
+
+            try {
+                ChargeCar.chargeCar(station, selectedEsource);
+            } catch (Exception e) {
+                System.out.println("Error: " + e.getMessage());
+                //systemLogger.log(Level.SEVERE, "Charging error", e);
+            }
+
         }
     }
 
