@@ -1,0 +1,100 @@
+Feb 02, 2024 7:11:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:11:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:11:21 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:11:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:11:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:11:21 CET 2024
+Feb 02, 2024 7:12:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:12:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:12:42 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:12:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:12:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:12:42 CET 2024
+Feb 02, 2024 7:15:31 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:15:31 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:15:31 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:15:31 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:15:31 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:15:31 CET 2024
+Feb 02, 2024 7:17:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:17:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:17:32 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:17:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:17:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:17:32 CET 2024
+Feb 02, 2024 7:18:10 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:18:10 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:18:10 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:18:10 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:18:10 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:18:10 CET 2024
+Feb 02, 2024 7:21:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:21:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:21:42 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:21:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:21:42 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:21:42 CET 2024
+Feb 02, 2024 7:23:27 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:23:27 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:23:27 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:23:27 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:23:27 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:23:27 CET 2024
+Feb 02, 2024 7:24:48 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:24:48 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:24:48 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 1
+Feb 02, 2024 7:24:48 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 2
+Feb 02, 2024 7:24:48 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:24:48 CET 2024
+Feb 02, 2024 7:30:55 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:30:55 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar
+Feb 02, 2024 7:30:55 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 4
+Feb 02, 2024 7:30:55 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 5
+Feb 02, 2024 7:30:55 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:30:55 CET 2024
+Feb 02, 2024 7:36:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at TestStation
+Feb 02, 2024 7:36:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar
+Feb 02, 2024 7:36:00 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 4
+Feb 02, 2024 7:36:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 5
+Feb 02, 2024 7:36:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:36:00 CET 2024

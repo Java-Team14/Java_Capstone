@@ -1,0 +1,268 @@
+Feb 01, 2024 6:41:58 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 6:41:58 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 6:41:58 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 6:41:58 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 18:41:58 CET 2024
+Feb 01, 2024 6:56:20 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 6:56:20 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 6:56:20 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 6:56:20 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 18:56:20 CET 2024
+Feb 01, 2024 7:02:29 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 7:02:29 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 7:02:29 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 7:02:29 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 19:02:29 CET 2024
+Feb 01, 2024 7:04:28 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 7:04:28 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 7:04:28 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 7:04:28 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 19:04:28 CET 2024
+Feb 01, 2024 7:09:09 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 7:09:09 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 7:09:09 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 7:09:09 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 19:09:09 CET 2024
+Feb 01, 2024 7:10:56 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 7:10:56 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 7:10:56 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 7:10:56 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 19:10:56 CET 2024
+Feb 01, 2024 7:18:21 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 7:18:21 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 7:18:21 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 7:18:21 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 19:18:21 CET 2024
+Feb 01, 2024 7:20:54 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 7:20:54 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 7:20:54 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 7:20:54 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 19:20:54 CET 2024
+Feb 01, 2024 8:42:46 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 8:42:46 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 8:42:46 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 8:42:46 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 20:42:46 CET 2024
+Feb 01, 2024 11:51:27 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 01, 2024 11:51:27 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 01, 2024 11:51:27 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 1:55:29 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 1:55:29 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar Energy
+Feb 02, 2024 1:55:29 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 1:55:29 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 1:55:29 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 01:55:29 CET 2024
+Feb 02, 2024 5:11:38 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 5:11:38 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar Energy
+Feb 02, 2024 5:11:38 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 5:11:38 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 5:11:38 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:11:38 CET 2024
+Feb 02, 2024 5:17:15 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 5:17:15 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 5:17:15 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 5:17:15 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 5:17:15 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:17:15 CET 2024
+Feb 02, 2024 5:18:28 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 5:18:28 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 5:18:28 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 5:18:28 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 5:18:28 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:18:28 CET 2024
+Feb 02, 2024 5:24:17 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 5:24:17 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar Energy
+Feb 02, 2024 5:24:17 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 5:24:17 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 5:24:17 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:24:17 CET 2024
+Feb 02, 2024 5:49:55 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 5:49:55 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 5:49:55 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 5:49:55 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 5:49:55 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:49:55 CET 2024
+Feb 02, 2024 5:53:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 5:53:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 5:53:13 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 5:53:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 5:53:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:53:13 CET 2024
+Feb 02, 2024 6:00:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 6:00:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 6:00:13 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 6:00:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 6:00:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 18:00:13 CET 2024
+Feb 02, 2024 6:10:38 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 6:10:38 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar Energy
+Feb 02, 2024 6:10:38 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 6:10:38 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 6:10:38 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 18:10:38 CET 2024
+Feb 02, 2024 6:19:24 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 6:19:24 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 6:19:24 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 6:19:24 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 6:19:24 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 18:19:24 CET 2024
+Feb 02, 2024 7:36:59 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 7:36:59 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Petrol
+Feb 02, 2024 7:36:59 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 7:36:59 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 7:36:59 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:36:59 CET 2024
+Feb 02, 2024 7:45:45 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 7:45:45 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar Energy
+Feb 02, 2024 7:45:45 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 7:45:45 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 7:45:45 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:45:45 CET 2024
+Feb 02, 2024 7:47:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 7:47:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:47:39 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 7:47:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 7:47:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:47:39 CET 2024
+Feb 02, 2024 7:49:11 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 7:49:11 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 7:49:11 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 7:49:11 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 7:49:11 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:49:11 CET 2024
+Feb 02, 2024 8:04:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 8:04:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 8:04:32 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 8:04:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 8:04:32 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:04:32 CET 2024
+Feb 02, 2024 8:12:52 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 8:12:52 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 8:12:52 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 8:12:52 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 8:12:52 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:12:52 CET 2024
+Feb 02, 2024 8:18:50 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 8:18:50 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Solar Energy
+Feb 02, 2024 8:18:50 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 8:18:50 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 8:18:50 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:18:50 CET 2024
+Feb 02, 2024 8:22:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 8:22:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 8:22:39 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 8:22:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 8:22:39 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:22:39 CET 2024
+Feb 02, 2024 8:48:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ionity
+Feb 02, 2024 8:48:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Diesel
+Feb 02, 2024 8:48:13 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 3
+Feb 02, 2024 8:48:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 4
+Feb 02, 2024 8:48:13 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:48:13 CET 2024

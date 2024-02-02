@@ -1,0 +1,106 @@
+Feb 01, 2024 6:53:34 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ladestation
+Feb 01, 2024 6:53:34 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: CNG
+Feb 01, 2024 6:53:34 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 6:53:34 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 18:53:34 CET 2024
+Feb 01, 2024 6:54:06 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging details for car at Ladestation
+Feb 01, 2024 6:54:06 PM ChargingStation.LogManager logChargingDetails
+INFO: Energy Source: CNG
+Feb 01, 2024 6:54:06 PM ChargingStation.LogManager logChargingDetails
+INFO: Charging Duration: 30 minutes
+Feb 01, 2024 6:54:06 PM ChargingStation.LogManager logChargingDetails
+INFO: Timestamp: Thu Feb 01 18:54:06 CET 2024
+Feb 02, 2024 1:34:52 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 1:34:52 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: CNG
+Feb 02, 2024 1:34:52 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 1:34:52 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 1:34:52 AM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 01:34:52 CET 2024
+Feb 02, 2024 5:19:44 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 5:19:44 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: null
+Feb 02, 2024 5:19:44 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 5:19:44 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 5:19:44 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:19:44 CET 2024
+Feb 02, 2024 5:50:42 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 5:50:42 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Energy Source: Hydro Energy
+Feb 02, 2024 5:50:42 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 5:50:42 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 5:50:42 PM ChargingStation.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 17:50:42 CET 2024
+Feb 02, 2024 6:12:14 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 6:12:14 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 6:12:14 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 6:12:14 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 6:12:14 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 18:12:14 CET 2024
+Feb 02, 2024 6:20:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 6:20:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 6:20:00 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 6:20:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 6:20:00 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 18:20:00 CET 2024
+Feb 02, 2024 7:38:19 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 7:38:19 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: CNgat
+Feb 02, 2024 7:38:19 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 7:38:19 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 7:38:19 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 19:38:19 CET 2024
+Feb 02, 2024 8:14:04 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 8:14:04 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 8:14:04 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 8:14:04 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 8:14:04 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:14:04 CET 2024
+Feb 02, 2024 8:19:06 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 8:19:06 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Hydro Energy
+Feb 02, 2024 8:19:06 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 8:19:06 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 8:19:06 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:19:06 CET 2024
+Feb 02, 2024 8:49:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Charging details for car at Ladestation
+Feb 02, 2024 8:49:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Energy Source: Wind Energy
+Feb 02, 2024 8:49:21 PM Management.LogManager chargingStationsLogDetails
+INFO: No. of free stations available : 6
+Feb 02, 2024 8:49:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Count of charging locations : 7
+Feb 02, 2024 8:49:21 PM Management.LogManager chargingStationsLogDetails
+INFO: Timestamp: Fri Feb 02 20:49:21 CET 2024
