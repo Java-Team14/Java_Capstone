@@ -28,9 +28,20 @@ public class CapstoneMain {
         for (int i = 0; i < csarray.length; i++) {
             SimulateCarArrival.simulateCarArrival(csarray[i]);
         }
+        // Management system for energy sources
+        System.out.println("\nDo you wish to have additional energy resources in the future? (yes/no)");
+        String isYes = scanner.next().toLowerCase();
 
-        
-
+        if (isYes.equals("yes")) {
+            System.out.println("Please provide your input");
+            String chosenSource = scanner.next();
+            EnergyManagementSystem.addEnergySource(chosenSource);
+            System.out.println("Thank you for your input. Have a good day!");
+            EnergyManagementSystem.displayAvailableEnergySources();
+        } else {
+            System.out.println("Thank you. Have a good day!");
+            EnergyManagementSystem.displayAvailableEnergySources();
+        }
         // Closing scanner to prevent resource leak
         scanner.close();
     }
