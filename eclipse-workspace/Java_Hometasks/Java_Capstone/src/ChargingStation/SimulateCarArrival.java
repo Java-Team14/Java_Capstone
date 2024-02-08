@@ -49,7 +49,7 @@ public class SimulateCarArrival {
                     System.out.println("The battery(s) will be charged using Hydro energy.");
                     break;
                 default:
-                    System.out.println("Invalid weather condition.");
+                    throw new IllegalArgumentException("Invalid weather condition. Please choose from the provided list.");
                     //systemLogger.log(Level.WARNING, "Invalid weather condition.");
             }
 
@@ -81,7 +81,6 @@ public class SimulateCarArrival {
                 System.out.println("Error: " + e.getMessage());
                 //systemLogger.log(Level.SEVERE, "Charging error", e);
             }
-
         }
     }
 
