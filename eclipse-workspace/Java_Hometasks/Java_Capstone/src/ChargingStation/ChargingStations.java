@@ -21,6 +21,6 @@ public class ChargingStations {
              this.availableSourceOfEnergy.add(t);
         }
         
-        this.numberOfFreeStationsAvailable = noOfChargingLocation - 1; 
+        this.numberOfFreeStationsAvailable = noOfChargingLocation; 
     }
 }
