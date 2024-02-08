@@ -15,7 +15,8 @@ public class EnergySource {
         System.out.print("Enter your choice: ");
         String userInput = scanner.next();
         if (!chargingStation.availableSourceOfEnergy.contains(userInput)) {
-            systemLogger.log(Level.WARNING, "Invalid energy source selected: " + userInput);
+        	throw new IllegalArgumentException("Invalid energy source selected. Please choose from the provided list.");
+            	//systemLogger.log(Level.WARNING, "Invalid energy source selected: " + userInput);
         }
         return userInput;
     }
