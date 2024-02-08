@@ -55,7 +55,7 @@ public class ChargeCar {
 
             // Check if waiting time exceeds 15 minutes, and if so, remove the car from the queue
             if (waitingTime > 15 * 60) {
-            	System.out.println("Search for another charging station complete.");
+            	System.out.println("Waiting time exceeded. Leaving the station..");
             }
         }  
     }
