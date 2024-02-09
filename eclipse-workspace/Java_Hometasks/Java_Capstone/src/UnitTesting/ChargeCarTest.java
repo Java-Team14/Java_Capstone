@@ -35,7 +35,7 @@ class ChargeCarTest {
 	        // Wait for more than 15 minutes
 	        Thread.sleep(16 * 60 * 1000);
 	        
-	        //uncomment line 40 and comment line 36 which to get result in 15 seconds instead of 16 minutes
+	        //uncomment line 40 and comment line 36 to get result in 15 seconds instead of 16 minutes
 	        //(For testing purpose)
 	        //Thread.sleep(1 * 15 * 1000);
 	    }
